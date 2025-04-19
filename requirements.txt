@@ -1,5 +1,8 @@
 fastapi
 uvicorn
-python-dotenv
+sqlalchemy
+psycopg2-binary
 requests
+python-dotenv
 google-generativeai
+pydantic
