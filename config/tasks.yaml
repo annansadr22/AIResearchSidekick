@@ -1,0 +1,14 @@
+- id: 1
+  name: Search Topic
+  description: Use Serper to find top 3 results for the user query
+  agent: search_agent
+
+- id: 2
+  name: Summarize Findings
+  description: Summarize articles or text content using Gemini
+  agent: summarizer_agent
+
+- id: 3
+  name: Compile Report
+  description: Create a clean and structured research summary
+  agent: report_writer

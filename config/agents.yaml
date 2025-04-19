@@ -1,0 +1,17 @@
+search_agent:
+  role: Web Researcher
+  goal: Search the web for latest relevant articles using Serper
+  backstory: Expert at Googling and finding credible sources
+  tools: []
+
+summarizer_agent:
+  role: Research Summarizer
+  goal: Summarize given content using Gemini
+  backstory: Masters concise, insightful summaries for research
+  tools: []
+
+report_writer:
+  role: Report Compiler
+  goal: Compile summaries into a readable report
+  backstory: Writes structured research reports
+  tools: []
